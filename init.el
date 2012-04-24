@@ -10,6 +10,7 @@
 ;; Add in your own as you wish:
 (defvar my-packages '(color-theme
                       iimage
+                      yasnippet-bundle
                       starter-kit
                       starter-kit-lisp
                       starter-kit-bindings
