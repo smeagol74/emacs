@@ -1,8 +1,0 @@
-;;; -*- coding: utf-8 -*-
-(("/home/smeagol/.emacs.d/elpa/color-theme-6.5.5/color-theme-autoloads.el" . 188)
- ("/home/smeagol/.emacs.d/elpa/elisp-slime-nav-0.2/elisp-slime-nav-autoloads.el" . 795)
- ("/home/smeagol/.emacs.d/elpa/starter-kit-bindings-2.0.2/starter-kit-bindings-autoloads.el" . 2119)
- ("/home/smeagol/.emacs.d/elpa/starter-kit-eshell-2.0.2/starter-kit-eshell-autoloads.el" . 1446)
- ("/home/smeagol/.emacs.d/elpa/starter-kit-lisp-2.0.3/starter-kit-lisp-autoloads.el" . 1916)
- ("/home/smeagol/.emacs.d/init.el" . 212)
- ("/home/smeagol/.emacs.d/smeagol.el" . 44))
