@@ -26,3 +26,7 @@
 (color-theme-standard)
 (load "color-theme-manoj")
 (color-theme-manoj-dark)
+
+; Интеграция с вики
+(require 'confluence)
+(setq confluence-url "https://wiki.hitsoft-it.com/rpc/xmlrpc")

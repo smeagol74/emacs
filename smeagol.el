@@ -117,4 +117,3 @@ middle"
 ; Закладки
 (global-set-key [f5] 'bookmark-set)
 (global-set-key [f6] 'bookmark-jump)
-
