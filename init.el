@@ -11,6 +11,7 @@
 (defvar my-packages '(color-theme
                       iimage
                       yasnippet-bundle
+                      confluence
                       starter-kit
                       starter-kit-lisp
                       starter-kit-bindings

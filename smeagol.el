@@ -13,9 +13,11 @@
   
 (setq org-log-done t)
   
-(setq org-agenda-files (list "~/org/work.org"
-                             "~/org/OrgTutorial.org"
-                             "~/org/home.org"))
+(setq org-agenda-files (list "~/org/hitsoft.org"
+                             "~/org/hitsoft.log.org"
+                             "~/org/personal.org"
+                             "~/org/personal.log.org"
+                             "~/org/notes.org"))
 
 (setq org-default-notes-file "~/org/notes.org")
                                                      
